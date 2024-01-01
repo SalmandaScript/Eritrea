@@ -189,6 +189,14 @@ color: "teal"
 });
 });
 
+//Previous page 
+function equatorialGuinea(){
+open("https://salmandascript.github.io/EquatorialGuinea/EquatorialGuinea.html");
+}
+
+function eswatini(){
+open("https://salmandascript.github.io/Eswatini/Eswatini.html");
+}
 
 
 //quizz questions code 
